@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordenacao", "ordenacao\ordenacao.csproj", "{C511AF05-B915-459F-A87D-959604A50763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C511AF05-B915-459F-A87D-959604A50763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C511AF05-B915-459F-A87D-959604A50763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C511AF05-B915-459F-A87D-959604A50763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C511AF05-B915-459F-A87D-959604A50763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FA9FBB-A002-4214-B720-D989BD764F70}
+	EndGlobalSection
+EndGlobal
